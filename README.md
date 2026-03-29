@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Rumeljohn Guingon
+![Professional Photo](Professional%20Headshot%20Git.jpg)
+
+### Bio
+I am currently a M.S. Data Science & Analytics (AI/ML) student at Old Dominion University.
+
+### Resume
+[Download my Resume (PDF)](Rumel-John-Guingon-Resume.pdf)
